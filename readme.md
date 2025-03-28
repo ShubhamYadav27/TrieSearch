@@ -1,4 +1,4 @@
-# Treacher
+# TrieSearch
 ## Advantages
 1. Searches for any word in raw file format where only words are present
 2. Adds new words to any opened file
